@@ -1,0 +1,15 @@
+- git init -> para iniciar um repositorio vazio.
+
+- git add -> para mandar um arquivo para a area de staging.
+
+- git status -> para ver os status, arquivos etc. 
+
+- git commit -m ->  para commitar. 
+
+- git branch -M -> para renomar a branch principal.
+
+- git remote add origin <link do repositorio> -> para dar remote (fazer uma conexão com o repositorio local com o repositorio do github).
+
+- git push -u origin main -> para empurrar os arquivos para o github.
+
+
